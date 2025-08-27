@@ -19,7 +19,7 @@ I’m a passionate **Front-end Developer** who loves building mobile and web app
 
 **Languages & Frameworks**  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,flutter,nodejs,js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,flutter,nodejs,js,androidstudio" height="40"/>
 </p>
 
 **Database & Cloud**  
@@ -29,7 +29,7 @@ I’m a passionate **Front-end Developer** who loves building mobile and web app
 
 **Tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="40"/>
 </p>
 
 ---
