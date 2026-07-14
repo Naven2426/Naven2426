@@ -1,60 +1,178 @@
-# Hi, I'm Naveen 👋  
-💻 Front-end Developer | Flutter | Java | Node.js | MySQL  
-🎯 Building impactful apps with clean design and scalable backend  
+# <h1 align="center">Hi 👋, I'm Naveen</h1>
 
----
+<h3 align="center">
+Front-End Developer • Flutter Developer • Java • Node.js
+</h3>
 
-## 🚀 About Me  
-I’m a passionate **Front-end Developer** who loves building mobile and web applications that are simple, scalable, and user-friendly.  
-- 🌱 Currently exploring **cross-platform development** with Flutter and diving deeper into backend systems.  
-- 📱 Experienced with Android (Java), Flutter, Node.js, and MySQL.  
-- ⚡ Creator of **SpareFinds** – a bike spare selling app.  
-- 🛟 Built a **Rescue Agency App** – an emergency & SOS request management system.  
-- 🎨 Outside of coding, I enjoy **drawing, anime, movies, and exploring creative ideas**.  
-- 🎯 My vision is to become a **full-stack & cross-platform developer** and build products that **solve real-world problems**.  
-
----
-
-## 🛠 Tech Stack  
-
-**Languages & Frameworks**  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,flutter,nodejs,js,androidstudio" height="40"/>
+<p align="center">
+Building modern, scalable mobile & web applications with clean UI and efficient backend solutions.
 </p>
 
-**Database & Cloud**  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-</p>
-
-**Tools**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="40"/>
+<p align="center">
+<a href="https://github.com/Naven2426">
+<img src="https://komarev.com/ghpvc/?username=Naven2426&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</a>
+<a href="https://github.com/Naven2426?tab=followers">
+<img src="https://img.shields.io/github/followers/Naven2426?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+# 💫 About Me
 
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naven2426&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naven2426&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naven2426&theme=tokyonight)  
+I'm a passionate **Front-End & Cross-Platform Developer** focused on creating modern, responsive, and user-friendly applications. I enjoy turning ideas into real-world products with clean UI, efficient backend systems, and scalable architecture.
 
----
-
-## 🌟 Projects  
-
-- 🚀 [**SpareFinds**](https://github.com/Naven2426/sparefinds) – Bike spare selling app  
-- 🛟 [**Rescue Agency App**](https://github.com/Naven2426/rescue-agency) – Emergency request system  
+* 💻 Front-End Developer with experience in Flutter, Java, Node.js, and MySQL.
+* 🚀 Creator of **SpareFinds**, a bike spare parts marketplace.
+* 🛟 Developed a **Rescue Agency App** for emergency request management.
+* 🌱 Currently expanding my knowledge in **Full-Stack Development** and backend technologies.
+* 🎯 Goal: Become a Full-Stack & Cross-Platform Software Engineer.
 
 ---
 
-## 📫 Connect With Me  
+# 🚀 Featured Projects
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgn2426@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/naven2426)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naven.sg)  
+## 🚲 SpareFinds
+
+A bike spare parts marketplace that makes buying and selling motorcycle spare parts simple and efficient.
+
+### Features
+
+* Product Listings
+* Category Management
+* Search & Filter
+* User Authentication
+* Clean Flutter UI
+
+**Tech Stack**
+
+`Flutter` • `Node.js` • `MySQL`
+
+🔗 Repository: https://github.com/Naven2426/sparefinds
 
 ---
 
-⭐ *“Code is not just about solving problems, it’s about creating impact.”*  
+## 🛟 Rescue Agency App
+
+An emergency response system that allows users to send SOS requests while helping rescue agencies manage and monitor emergencies efficiently.
+
+### Features
+
+* SOS Request System
+* Rescue Dashboard
+* User Management
+* Status Tracking
+
+**Tech Stack**
+
+`Flutter` • `Java` • `MySQL`
+
+🔗 Repository: https://github.com/Naven2426/rescue-agency
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,dart"/>
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,nodejs"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio"/>
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Naven2426&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naven2426&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naven2426&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Naven2426&theme=tokyonight&margin-w=15&no-frame=true"/>
+</p>
+
+---
+
+# 📚 Currently Learning
+
+* Full-Stack Development
+* REST APIs
+* Node.js & Express.js
+* MySQL Optimization
+* Docker
+* CI/CD
+* System Design
+* Software Architecture
+
+---
+
+# 🎨 Beyond Coding
+
+* 🎨 Drawing
+* 🎬 Movies
+* 🍿 Anime
+* 💡 Exploring Creative Ideas
+* 📱 Building Side Projects
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:sgn2426@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/naven2426">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/naven.sg">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 *"Great software isn't just built to work—it's built to make a difference."*
+
+⭐ Thanks for visiting my profile!
+
+</p>
