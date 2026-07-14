@@ -1,17 +1,15 @@
-# <h1 align="center">Hi 👋, I'm Naveen</h1>
+
+# <h1 align="center">Hi 👋, I'm Naveen SG</h1>
 
 <h3 align="center">
-Front-End Developer • Flutter Developer • Java • Node.js
+Full-Stack Developer • AI Enthusiast • React • Flutter • Node.js • Python
 </h3>
 
 <p align="center">
-Building modern, scalable mobile & web applications with clean UI and efficient backend solutions.
+Building scalable software and AI-powered solutions that solve real-world problems.
 </p>
 
 <p align="center">
-<a href="https://github.com/Naven2426">
-<img src="https://komarev.com/ghpvc/?username=Naven2426&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</a>
 <a href="https://github.com/Naven2426?tab=followers">
 <img src="https://img.shields.io/github/followers/Naven2426?style=for-the-badge&logo=github"/>
 </a>
@@ -21,29 +19,43 @@ Building modern, scalable mobile & web applications with clean UI and efficient 
 
 # 💫 About Me
 
-I'm a passionate **Front-End & Cross-Platform Developer** focused on creating modern, responsive, and user-friendly applications. I enjoy turning ideas into real-world products with clean UI, efficient backend systems, and scalable architecture.
+I'm a passionate **Full-Stack Developer** with a growing interest in **Artificial Intelligence, Computer Vision, and Software Architecture**.
 
-* 💻 Front-End Developer with experience in Flutter, Java, Node.js, and MySQL.
-* 🚀 Creator of **SpareFinds**, a bike spare parts marketplace.
-* 🛟 Developed a **Rescue Agency App** for emergency request management.
-* 🌱 Currently expanding my knowledge in **Full-Stack Development** and backend technologies.
-* 🎯 Goal: Become a Full-Stack & Cross-Platform Software Engineer.
+- 🤖 Currently building **Reality Integrity Engine (RIE)** — an AI-powered platform for deepfake detection and digital media integrity verification.
+- 💻 Experienced with React, Flutter, Node.js, Express.js, Java, Python, and MySQL.
+- 🚀 Creator of **SpareFinds**.
+- 🛟 Developed **Rescue Agency App**.
+- 🌱 Currently learning Artificial Intelligence, FastAPI, Deep Learning, Docker, and System Design.
+- 🎯 Goal: Become an AI & Full-Stack Software Engineer.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚲 SpareFinds
+## 🔍 Reality Integrity Engine (RIE)
 
-A bike spare parts marketplace that makes buying and selling motorcycle spare parts simple and efficient.
+An AI-powered digital media verification platform for detecting deepfakes, synthetic media, and manipulated digital content.
 
 ### Features
 
-* Product Listings
-* Category Management
-* Search & Filter
-* User Authentication
-* Clean Flutter UI
+- Deepfake Detection
+- Image Authenticity Verification
+- AI Inference Engine
+- REST API Architecture
+- Modular Microservices
+- Scalable Design
+
+**Tech Stack**
+
+`React` • `Node.js` • `FastAPI` • `Python` • `PyTorch`
+
+🔗 Repository: https://github.com/Naven2426/RIE
+
+---
+
+## 🚲 SpareFinds
+
+A marketplace application for buying and selling motorcycle spare parts.
 
 **Tech Stack**
 
@@ -55,18 +67,11 @@ A bike spare parts marketplace that makes buying and selling motorcycle spare pa
 
 ## 🛟 Rescue Agency App
 
-An emergency response system that allows users to send SOS requests while helping rescue agencies manage and monitor emergencies efficiently.
-
-### Features
-
-* SOS Request System
-* Rescue Dashboard
-* User Management
-* Status Tracking
+Emergency request and SOS management system.
 
 **Tech Stack**
 
-`Flutter` • `Java` • `MySQL`
+`Java` • `Flutter` • `MySQL`
 
 🔗 Repository: https://github.com/Naven2426/rescue-agency
 
@@ -77,25 +82,37 @@ An emergency response system that allows users to send SOS requests while helpin
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,dart"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,dart,html,css"/>
 </p>
 
-### Frameworks
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,nodejs"/>
+<img src="https://skillicons.dev/icons?i=react,vite,flutter"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 </p>
 
 ---
@@ -103,17 +120,12 @@ An emergency response system that allows users to send SOS requests while helpin
 # 📈 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Naven2426&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naven2426&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naven2426&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -128,24 +140,23 @@ An emergency response system that allows users to send SOS requests while helpin
 
 # 📚 Currently Learning
 
-* Full-Stack Development
-* REST APIs
-* Node.js & Express.js
-* MySQL Optimization
-* Docker
-* CI/CD
-* System Design
-* Software Architecture
+- Artificial Intelligence
+- Computer Vision
+- Deep Learning
+- FastAPI
+- Docker
+- System Design
+- Cloud Deployment
 
 ---
 
 # 🎨 Beyond Coding
 
-* 🎨 Drawing
-* 🎬 Movies
-* 🍿 Anime
-* 💡 Exploring Creative Ideas
-* 📱 Building Side Projects
+- 🎨 Drawing
+- 🎬 Movies
+- 🍿 Anime
+- 💡 Exploring Creative Ideas
+- 📱 Building Side Projects
 
 ---
 
@@ -171,7 +182,7 @@ An emergency response system that allows users to send SOS requests while helpin
 
 <p align="center">
 
-### 💡 *"Great software isn't just built to work—it's built to make a difference."*
+### 💡 *"Technology isn't just about writing code—it's about building solutions that create trust, solve problems, and make a meaningful impact."*
 
 ⭐ Thanks for visiting my profile!
 
